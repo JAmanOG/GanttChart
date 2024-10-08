@@ -38,8 +38,8 @@ Make sure you have Python installed on your machine. You can download it from [p
 1. Clone the repository or download the code files.
 
    ```bash
-   git clone https://github.com/yourusername/gantt-chart-project.git
-   cd gantt-chart-project
+   git clone https://github.com/JAmanOG/GanttChart.git
+   cd GanttChart
    ```
 
 2. Install the required libraries using pip:
